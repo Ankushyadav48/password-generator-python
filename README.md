@@ -89,7 +89,7 @@ README.md
 ---
 ## 🙌 Author
 
-Made with love by **Ankush Ajay Yada**  
+Made with love by **Ankush Ajay Yadav**  
 Roll No.: 08
 Department: Computer Engineering  
 College: Dilkap college of engineering
