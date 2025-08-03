@@ -87,6 +87,12 @@ README.md
 * Responsive resizing support.
 
 ---
+## 🙌 Author
+
+Made with love by **Ankush Ajay Yada**  
+Roll No.: 08
+Department: Computer Engineering  
+College: Dilkap college of engineering
 
 ## 📃 License
 
